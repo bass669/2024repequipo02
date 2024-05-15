@@ -47,7 +47,7 @@ def signin(request):
 
 def main_page(request):
 
-    return render(request, "main_page.html")
+    return render(request, "admin/plantilla/AdminLTE-3.2.0/index.html") # pagina principal
 
 def chatperfil(request):
 
