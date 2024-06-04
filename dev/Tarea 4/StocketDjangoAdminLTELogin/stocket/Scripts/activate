@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\luisg\OneDrive - Universidad Técnica Federico Santa María\Documentos\GitHub\django-adminlte_p\stocket"
+VIRTUAL_ENV="C:\Users\Biblioteca\Documents\2024repequipo02-main\dev\Tarea 4\StocketDjangoAdminLTELogin\stocket"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
